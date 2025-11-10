@@ -2,7 +2,7 @@
 
 This repository contains a beginner-friendly data analytics notebook developed while learning core Python data analysis libraries. The notebook demonstrates hands-on practice with **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**, covering foundational concepts required for machine learning and exploratory data analysis (EDA).
 
-## 📌 Project Overview
+##  Project Overview
 This notebook walks through essential data manipulation and visualization techniques, including:
 
 - Numerical computing with **NumPy**
@@ -22,7 +22,7 @@ The purpose of this project is to build strong fundamentals in data analytics be
 - Jupyter Notebook / VS Code
 
 ##  File Structure
-├── data-analytics-practice.ipynb # Main notebook
+├── data-analytics-practice.ipynb # Main notebook <br>
 ├── README.md # Project documentation
 
 ## How to Run the Notebook
@@ -41,6 +41,8 @@ Or open it directly through VS Code.
 * How to clean, prepare, and manipulate datasets using Pandas
 * How to visualize patterns and distributions using Matplotlib & Seaborn
 * How to approach beginner-level data analysis tasks in a structured workflow
+
+Liked it? Smash that ⭐ and keep exploring.
 
 ## Future Improvements
 * Add real-world datasets
