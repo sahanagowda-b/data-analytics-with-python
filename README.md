@@ -47,3 +47,7 @@ Or open it directly through VS Code.
 * Perform deeper statistical EDA
 * Add machine learning models (Linear Regression, KMeans, Random Forest, etc.)
 * Add advanced data visualizations and dashboards
+
+## Contributors
+- D SAIKIRAN REDDY
+- SAHANA GOWDA B
